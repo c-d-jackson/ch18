@@ -18,3 +18,8 @@ dotchart(VADeaths, main = "Death Rates in Virginia - 1940")
 #' Now we try to add a test plot on a branch
 #+ plot
 plot(1:10, 1:10, main = "test plot")
+
+
+#' A simple histogram.
+#+ histogram
+hist(rnorm(1000))

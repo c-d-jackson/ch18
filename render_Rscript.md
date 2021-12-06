@@ -37,3 +37,11 @@ plot(1:10, 1:10, main = "test plot")
 ```
 
 ![](render_Rscript_files/figure-gfm/plot-1.png)<!-- -->
+
+A simple histogram.
+
+``` r
+hist(rnorm(1000))
+```
+
+![](render_Rscript_files/figure-gfm/histogram-1.png)<!-- -->
