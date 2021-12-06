@@ -14,3 +14,6 @@ summary(VADeaths)
 #' this chunk, so the resulting PNG has a decent name.
 #+ dotchart
 dotchart(VADeaths, main = "Death Rates in Virginia - 1940")
+
+#' Add some new text to main branch after creating a test branch.
+#' See what the result looks like in gitkraken.
