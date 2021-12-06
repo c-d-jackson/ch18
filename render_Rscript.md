@@ -29,3 +29,11 @@ dotchart(VADeaths, main = "Death Rates in Virginia - 1940")
 ```
 
 ![](render_Rscript_files/figure-gfm/dotchart-1.png)<!-- -->
+
+Now we try to add a test plot on a branch
+
+``` r
+plot(1:10, 1:10, main = "test plot")
+```
+
+![](render_Rscript_files/figure-gfm/plot-1.png)<!-- -->
